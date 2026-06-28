@@ -31,7 +31,7 @@ GitHub:github.com/waynekiprotich
 LinkedIn: linkedin.com/in/wayne-kiprotich-1a8ba6388
 
 # PORTFOLIO
-https://waynekiprotich.vercel.app/
+waynekiprotich.online
 ---
 
  I focus on building systems that are functional, scalable, and production-ready — not just tutorial projects.
