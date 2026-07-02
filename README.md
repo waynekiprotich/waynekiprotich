@@ -1,37 +1,38 @@
-# Full-Stack Software Developer 
+# Wayne Kiprotich
+**Full-Stack Software Developer** · Nairobi, Kenya
 
-Nairobi, Kenya
+I design and build web applications end to end — from database schema to the interface someone actually uses. My focus is backend architecture, API design, and authentication systems, paired with frontend work that doesn't feel like an afterthought.
 
-I build full-stack web applications, APIs, and automation systems focused on performance, scalability, and real-world use cases. My work combines backend engineering, frontend development, and system design to deliver complete, production-style software solutions.
+I work mostly in Python and JavaScript/TypeScript, building with Flask, React, and PostgreSQL. Recent projects include a competitive programming platform with a full JWT-based auth system and sandboxed code execution, and a personal productivity suite with an integrated AI assistant. I care about systems that are simple to reason about and easy to extend — not just ones that work on day one.
 
-I specialize in turning ideas into working systems — from authentication platforms to automation tools and developer dashboards.
-
----
-
-# TECHNICAL SKILLS
-
-Python | JavaScript | TypeScript | React | Flask | PostgreSQL | SQLAlchemy | JWT | Tailwind CSS | Docker | Git | REST APIs
+Based in Nairobi, working remotely with clients and teams anywhere.
 
 ---
 
-# CORE FOCUS
+## Stack
 
-* Full-stack web development
-* Backend system design & APIs
-* Automation & data systems
-* Authentication architecture
-* Remote freelance & startup engineering roles
-* AI training & evaluation work
+**Languages** — Python, JavaScript, TypeScript
+**Frontend** — React, Tailwind CSS
+**Backend** — Flask, REST APIs, JWT Authentication
+**Data** — PostgreSQL, SQLAlchemy
+**Tools** — Docker, Git, GitHub
+
+## Where I add value
+
+- Full-stack web development, from schema to UI
+- Backend architecture & REST API design
+- Authentication & authorization systems
+- Database design & data modeling
+- Automation tooling
+- AI-integrated applications
+- Freelance & remote software engineering
 
 ---
 
-#  CONTACT
+## Elsewhere
 
-GitHub:github.com/waynekiprotich
-LinkedIn: linkedin.com/in/wayne-kiprotich-1a8ba6388
+[GitHub](https://github.com/waynekiprotich) · [LinkedIn](https://linkedin.com/in/wayne-kiprotich-1a8ba6388) · [Portfolio](https://waynekiprotich.online)
 
-# PORTFOLIO
-waynekiprotich.online
 ---
 
- I focus on building systems that are functional, scalable, and production-ready — not just tutorial projects.
+**Building something and need a full-stack or backend developer who can own the whole system?** Reach out — [waynekiprotich.online](https://waynekiprotich.online)
