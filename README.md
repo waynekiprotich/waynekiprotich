@@ -4,7 +4,7 @@
 
 # Wayne Kiprotich
 
-Software Engineer — Nairobi, Kenya
+Software Engineer · Nairobi, Kenya
 
 [Portfolio](https://waynekiprotich.online) · [LinkedIn](https://linkedin.com/in/wayne-kiprotich-1a8ba6388) · [Email](mailto:hello@waynekiprotich.online)
 
@@ -20,7 +20,9 @@ Software Engineer — Nairobi, Kenya
 
 I build modern web applications with a focus on backend architecture, scalable APIs, authentication systems, and clean user experiences.
 
-I design software that is maintainable, simple to reason about, and built for long-term scalability. The goal is never just working code — it's a system someone else can extend without fear.
+I design software that is maintainable, simple to reason about, and built for long-term scalability. The goal is never just working code. It's a system someone else can extend without fear.
+
+If you have an idea, a product that needs a solid backend, or a codebase that needs a steady hand, I'd love to help you ship it.
 
 <br/>
 
@@ -28,19 +30,23 @@ I design software that is maintainable, simple to reason about, and built for lo
 
 <br/>
 
-### Selected Work
+### Featured Websites
 
 <br/>
 
-**Stack-Battle KE**
+**[Kenya Quest](https://kenya-quest-client.waynekip123.workers.dev/)**
 
-A competitive programming platform with secure sandboxed code execution, JWT authentication, leaderboards, challenges, and groups. Built on a React frontend with a Flask backend.
+Small, real adventures across Nairobi. Pick a quest, visit the places, and tick off five tasks to make a memory.
+
+[View live →](https://kenya-quest-client.waynekip123.workers.dev/)
 
 <br/>
 
-**PersonalOS**
+**[KCode](https://kcode.waynekip123.workers.dev/)**
 
-An AI-powered productivity platform unifying tasks, habits, notes, journaling, projects, and finances into a single workspace, with an integrated AI assistant at its core.
+A competitive coding platform where developers compete, learn, and level up through weekly coding challenges.
+
+[View live →](https://kcode.waynekip123.workers.dev/)
 
 <br/>
 
@@ -75,6 +81,8 @@ An AI-powered productivity platform unifying tasks, habits, notes, journaling, p
 ### Contact
 
 Open to freelance and remote engineering work.
+
+Clear communication, honest timelines, and code you'll be glad to own. Tell me what you're building and I'll get back to you within 24 hours.
 
 [waynekiprotich.online](https://waynekiprotich.online) · [hello@waynekiprotich.online](mailto:hello@waynekiprotich.online)
 
